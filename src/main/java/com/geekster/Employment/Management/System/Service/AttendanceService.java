@@ -1,8 +1,9 @@
 package com.geekster.Employment.Management.System.Service;
 
-import com.EmployeeManager.HR.Stats.Model.Attendance;
-import com.EmployeeManager.HR.Stats.Model.Employee;
-import com.EmployeeManager.HR.Stats.Repository.IAttendance;
+
+import com.geekster.Employment.Management.System.Model.Attendance;
+import com.geekster.Employment.Management.System.Model.Employee;
+import com.geekster.Employment.Management.System.Repository.IAttendance;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

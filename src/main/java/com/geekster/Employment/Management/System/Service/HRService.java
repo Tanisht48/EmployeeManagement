@@ -1,8 +1,9 @@
 package com.geekster.Employment.Management.System.Service;
 
-import com.EmployeeManager.HR.Stats.ExceptionHandler.HRNotFoundException;
-import com.EmployeeManager.HR.Stats.Model.HR;
-import com.EmployeeManager.HR.Stats.Repository.IHR;
+
+import com.geekster.Employment.Management.System.ExceptionHandler.HRNotFoundException;
+import com.geekster.Employment.Management.System.Model.HR;
+import com.geekster.Employment.Management.System.Repository.IHR;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,9 @@
 package com.geekster.Employment.Management.System.Controller;
 
-import com.EmployeeManager.HR.Stats.Model.Employee;
-import com.EmployeeManager.HR.Stats.Service.EmployeeService;
+
+
+import com.geekster.Employment.Management.System.Model.Employee;
+import com.geekster.Employment.Management.System.Service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
